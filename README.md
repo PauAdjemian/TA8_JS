@@ -1,1 +1,2 @@
 # TA8_JS
+Dado un archivo HTML,  crear un archivo .js que implemente una función llamada findTheOldest(people: Array), que devuelva e imprima en consola aquella persona dentro del parámetro people que sea el que tenga más edad.
